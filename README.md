@@ -1,3 +1,5 @@
+![Tetris](https://user-images.githubusercontent.com/38664958/65811980-5174ff00-e186-11e9-942c-c9f5d84d8b07.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
