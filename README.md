@@ -1,6 +1,6 @@
 ![Tetris](https://user-images.githubusercontent.com/38664958/65811980-5174ff00-e186-11e9-942c-c9f5d84d8b07.png)
 
-# Tetris Clone built in React.js
+# Tetris Clone built in React.js utilizing hooks! (useState, useEffect, etc.)
 
 
 ### Huge shoutout to freeCodeCamp.org and Meth Meth Method YouTube tutorials
